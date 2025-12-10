@@ -1,0 +1,83 @@
+{
+  "resumes": [
+    {
+      "id": "074c",
+      "name": "kiranmai",
+      "email": "kiranmaidiyya6@gmail.com",
+      "phone": "9390837131",
+      "linkedin": "https://linkedin.com/in/sample",
+      "github": "https://github.com/sample",
+      "summary": "BSc Computer Science graduate with strong full stack development skills in React, Node,js, Java HTML/CSS and SQL/NOSQL data bases",
+      "education": [
+        "BSc Computer Science -SRM University AP"
+      ],
+      "experience": [
+        ""
+      ],
+      "projects": [
+        ""
+      ],
+      "skills": "Javascript, html,css ,react, ",
+      "languages": [
+        "English ",
+        "Telugu"
+      ],
+      "certifications": [
+        ""
+      ],
+      "templateType": "modern"
+    },
+    {
+      "id": "2203",
+      "name": "kiranmai",
+      "email": "kiranmaidiyya6@gmail.com",
+      "phone": "9390837131",
+      "linkedin": "https://linkedin.com/in/sample",
+      "github": "https://github.com/sample",
+      "summary": "ki",
+      "education": [
+        "BSc Computer Science -SRM University AP"
+      ],
+      "experience": [
+        ""
+      ],
+      "projects": [
+        ""
+      ],
+      "skills": "",
+      "languages": [
+        "English "
+      ],
+      "certifications": [
+        ""
+      ],
+      "templateType": "minimal"
+    },
+    {
+      "id": "8b88",
+      "name": "kiranmai",
+      "email": "kiranmaidiyya6@gmail.com",
+      "phone": "9390837131",
+      "linkedin": "https://linkedin.com/in/sample",
+      "github": "https://github.com/sample",
+      "summary": "",
+      "education": [
+        "BSc Computer Science -SRM University AP"
+      ],
+      "experience": [
+        ""
+      ],
+      "projects": [
+        ""
+      ],
+      "skills": "",
+      "languages": [
+        "English "
+      ],
+      "certifications": [
+        ""
+      ],
+      "templateType": "minimal"
+    }
+  ]
+}
