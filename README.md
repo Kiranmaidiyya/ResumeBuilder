@@ -1,16 +1,60 @@
-# React + Vite
+# Resume Builder — A Smart and Interactive Resume Creation Tool
+The Resume Builder is a modern web application that allows users to easily create and format their resumes.
+It helps students and job seekers build professional resumes by entering their details and previewing the output instantly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The application supports adding personal information, skills, education, and work experience.
+Users can also update or delete their data.
+A local backend using JSON-Server is used to practice CRUD operations through Axios.
 
-Currently, two official plugins are available:
+# Features
+Add personal details, education, skills, experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Edit and delete resume entries
 
-## React Compiler
+Real-time live preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+CRUD operations handled through Axios
 
-## Expanding the ESLint configuration
+JSON-Server backend runs locally during development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive UI for all devices
+
+Resume export option
+
+Simple and clean design using Tailwind CSS
+
+Smooth notifications using React Toastify
+
+# Technogies
+frontend
+
+React.js
+
+Vite
+
+Tailwind CSS
+
+Axios
+
+React Router
+
+React Toastify
+
+React Icons
+
+Backend (Local Development)
+JSON-Server
+
+Runs at: http://localhost:5000
+
+Used for Create, Read, Update, Delete operations during development
+
+# Project Report
+https://docs.google.com/document/d/1_4vgS9Bw4_f8-icZaWgrwDAFw6Gbalv4/edit?usp=sharing&ouid=114913740849448666775&rtpof=true&sd=true
+
+# Video Demo
+DemoLink: https://drive.google.com/file/d/1CMXYBPscnTdEPq6xD5M6HwyDWO8HV-1w/view?usp=drivesdk
+
+Code Link: https://drive.google.com/file/d/12Nq3aQN7jPELnJwIzLHUDDbvkYHzHR3b/view?usp=sharing
+
+
